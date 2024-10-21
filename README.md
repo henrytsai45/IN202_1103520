@@ -22,7 +22,7 @@ Explanation: <br>
 •	So, it jumps to 25. 25 is greater than 5.<br>
 •	Accordingly, 2 < 25. Then, 25 is the last and greater than all elements. So, we give -1.<br>
 <br>
-#Queue:<br>
+# Queue:<br>
 Question: 1<br>
 Given an array and a positive integer k, find the first negative integer for each window (contiguous subarray) of size k. If a window does not contain a negative integer, then print 0 for that window.<br>
 Example: <br>
