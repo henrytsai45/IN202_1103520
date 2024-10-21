@@ -1,7 +1,7 @@
 # IN202_1103520
-For data structure
-name henry 蔡達德
-# Stacks:
+For data structure <br>
+name henry 蔡達德 <br>
+# Stacks: <br>
 Question: 1
 Write a C++ program to reverse a stack using recursion, without using any loop.
 Example:
@@ -22,7 +22,7 @@ Explanation:
 •	So, it jumps to 25. 25 is greater than 5.
 •	Accordingly, 2 < 25. Then, 25 is the last and greater than all elements. So, we give -1.
 
-Queue:
+#Queue:
 Question: 1
 Given an array and a positive integer k, find the first negative integer for each window (contiguous subarray) of size k. If a window does not contain a negative integer, then print 0 for that window.
 Example: 
