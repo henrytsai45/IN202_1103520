@@ -4,7 +4,7 @@
 
 ---
 
-## Stacks
+# Stacks
 
 ### Question 1: Reverse a Stack using Recursion
 
@@ -42,9 +42,9 @@ Given an array, print the Next Greater Element (NGE) for every element.
 
 ---
 
-## Queue
+# Queue
 
-### Question 1: First Negative Integer in Every Window of Size K
+### Question 3: First Negative Integer in Every Window of Size K
 
 **Problem:**  
 Given an array and a positive integer `k`, find the first negative integer for each window (contiguous subarray) of size `k`. If a window does not contain a negative integer, print `0` for that window.
@@ -63,7 +63,7 @@ Given an array and a positive integer `k`, find the first negative integer for e
 
 ---
 
-### Question 2: Interleave Queue Elements
+### Question 4: Interleave Queue Elements
 
 **Problem:**  
 Given a queue of integers of even length, rearrange the elements by interleaving the first half of the queue with the second half.
